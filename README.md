@@ -1,3 +1,4 @@
 # tSNE-MDS
 working folder of tSNE
-to-be-updated
+
+	run test1_mnist.m for the first example
